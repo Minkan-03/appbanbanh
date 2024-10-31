@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "1",
+        "name": "Cream Chocolate cake Bakery Birthday",
+        "image": "https://pngimg.com/uploads/cake/cake_PNG97017.png" ,
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 120000,
+        "countInStock": 7,
+        "rating": 4,
+        "numReviews": 4
+    },
+    {
+        "_id": "2",
+        "name": "Donuts Frosting & Icing Sprinkles Glaze",
+        "image": "https://pngimg.com/uploads/cake/cake_PNG13087.png" ,
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 24000,
+        "countInStock": 3,
+        "rating": 2,
+        "numReviews": 4
+    },
+    {
+        "_id": "3",
+        "name": "Chocolate cake Birthday cake Tart Bakery Cheesecake",
+        "image": "https://pngimg.com/uploads/cake/cake_PNG97023.png",
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 220000,
+        "countInStock": 2,
+        "rating": 3.5,
+        "numReviews": 4
+    },
+    {
+        "_id": "4",
+        "name": "Cheesecake Strawberry pie Frutti",
+        "image": "https://pngimg.com/uploads/cake/cake_PNG13097.png",
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 15000,
+        "countInStock": 6,
+        "rating": 5,
+        "numReviews": 4
+    },
+    {
+        "_id": "5",
+        "name": "Torta Tart Tres leches cake Torte",
+        "image": "https://pngimg.com/uploads/cake/cake_PNG13118.png",
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 180000,
+        "countInStock": 1,
+        "rating": 2,
+        "numReviews": 4
+    },
+    {
+        "_id": "6",
+        "name": "Torta Cupcake Bakery Custard Sponge cake, chocolate cake",
+        "image": "https://pngimg.com/uploads/donut/donut_PNG28.png",
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 150000,
+        "countInStock": 0,
+        "rating": 0,
+        "numReviews": 0
+    },
+    {
+        "_id": "1",
+        "name": "Cream Chocolate cake Bakery Birthday",
+        "image": "https://pngimg.com/uploads/cake/cake_PNG97017.png" ,
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 120000,
+        "countInStock": 7,
+        "rating": 4,
+        "numReviews": 4
+    },
+    {
+        "_id": "2",
+        "name": "Donuts Frosting & Icing Sprinkles Glaze",
+        "image": "https://pngimg.com/uploads/cake/cake_PNG13087.png" ,
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 24000,
+        "countInStock": 3,
+        "rating": 2,
+        "numReviews": 4
+    },
+    {
+        "_id": "3",
+        "name": "Chocolate cake Birthday cake Tart Bakery Cheesecake",
+        "image": "https://pngimg.com/uploads/cake/cake_PNG97023.png",
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 220000,
+        "countInStock": 2,
+        "rating": 3.5,
+        "numReviews": 4
+    },
+    {
+        "_id": "4",
+        "name": "Cheesecake Strawberry pie Frutti",
+        "image": "https://pngimg.com/uploads/cake/cake_PNG13097.png",
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 15000,
+        "countInStock": 6,
+        "rating": 5,
+        "numReviews": 4
+    },
+    {
+        "_id": "5",
+        "name": "Torta Tart Tres leches cake Torte",
+        "image": "https://pngimg.com/uploads/cake/cake_PNG13118.png",
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 180000,
+        "countInStock": 1,
+        "rating": 2,
+        "numReviews": 4
+    },
+    {
+        "_id": "6",
+        "name": "Torta Cupcake Bakery Custard Sponge cake, chocolate cake",
+        "image": "https://pngimg.com/uploads/donut/donut_PNG28.png",
+        "description": "There's a dessert that transcends all boundaries, captivating hearts and palates alike the exquisite Chocolate Cake. With its velvety texture, intense cocoa aroma, and luscious layers, this dessert stands as a testament to the artistry of baking Imagine a symphony of flavors dancing on your taste buds. The first bite reveals a moist and tender cake base, its subtle sweetness providing the perfect canvas for the chocolatey journey that awaits. As you delve deeper, you encounter layers of sinfully rich chocolate ganache, each spoonful a crescendo of luxurious taste.",
+        "price": 150000,
+        "countInStock": 0,
+        "rating": 0,
+        "numReviews": 0
+    }
+]
